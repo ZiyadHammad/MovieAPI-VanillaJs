@@ -66,6 +66,6 @@ OMDB API is return a search by ID query as follows:
 }
 ```
 ## Technologies Used
--jQuery - JavaScript Library | Used for document traversal and manipulation, and event handling
--Axios - JavaScript Library | Used to make HTTP Request
--Bootstrap - HTML,CSS,JavaScript Library | Used for styling & responsiveness
+- jQuery - JavaScript Library | Used for document traversal and manipulation, and event handling
+- Axios - JavaScript Library | Used to make HTTP Request
+- Bootstrap - HTML,CSS,JavaScript Library | Used for styling & responsiveness
